@@ -1,7 +1,5 @@
 import 'dart:io';
 
-import '../loops/while_09.dart';
-
 void main(List<String> args) {
   //WAP to generate the following pattern
   //     *

@@ -8,7 +8,6 @@ void main(List<String> args) {
   int i = 3;
   int temp = 0;
   while (i < per_var) {
-    // print("$per_var % $i = ${per_var % i}");
     if (per_var % i == 0) {
       temp += 1;
       break;

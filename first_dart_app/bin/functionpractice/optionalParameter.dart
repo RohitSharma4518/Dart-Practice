@@ -1,3 +1,15 @@
+// Difference between Parameter and Arguments
+// A function when declared with variable's inside the circular() bracket
+
+//   This below is called parameters
+// int fucnExample(int a, int b){
+//    return a+b;
+// }
+
+// While calling the function we passes arguments
+//          below are arguments
+// funcExample(5, 5);
+
 // Fuction with Optional Parameter
 
 void optParameter(int p1, [var p2]) {
