@@ -20,6 +20,7 @@ class CustomException implements Exception {
   }
 }
 
+// Random Function
 void depositMoney(int amount) {
   if (amount < 0) {
     throw CustomException();

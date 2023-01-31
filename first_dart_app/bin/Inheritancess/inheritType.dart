@@ -36,5 +36,6 @@ Hierarchial Inheritance
              /         \
         Subclass    Subclass     
 
-
+Object class = It is a class which is Inherited by all the classes 
+               It contains some properties which all classes can inherit
 */
